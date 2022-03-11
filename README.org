@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 06
 
-* Last name:
+* Last name: Shvorin
 
-* First name:
+* First name: Matthew
 
-* GitHub username:
+* GitHub username: mshvorin
 
 * Notes:
 
@@ -17,7 +17,7 @@
   https://maryash.github.io/135/labs/lab_06.html 
 
 
-* Specific instructions for lab 05
+* Specific instructions for lab 06
 
 This lab requires that you implement doctest based tests. There is
 already a skeleton ~Makefile~ with targets for ~main~ and ~tests~ as
